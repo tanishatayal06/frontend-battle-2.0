@@ -31,11 +31,11 @@ https://frontend-battle-2-0-tanishatayal06s-projects.vercel.app/
    ```
 
 ## Deployment
-Deploy easily to [Netlify](https://www.netlify.com/), [Vercel](https://vercel.com/), or [GitHub Pages](https://pages.github.com/).
+Deploy easily to  [Vercel](https://vercel.com/), or [GitHub Pages](https://pages.github.com/).
 
 ## AI Tools Used
 - ChatGPT (OpenAI)
-- Cursor
+
 
 ## License
 MIT
