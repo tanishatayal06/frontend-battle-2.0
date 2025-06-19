@@ -1,9 +1,7 @@
 # Frontend Battle 2.0 - Round 1 Submission
 
 ## Live Demo
-
-[https://frontend-battle-2-0-tanishatayal06s-projects.vercel.app/]
-
+https://frontend-battle-2-0-tanishatayal06s-projects.vercel.app/
 ## Features
 - Responsive layout
 - Loader (from provided asset)
