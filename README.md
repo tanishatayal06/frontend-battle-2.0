@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-[https://frontend-battle-2-0-tanishatayal06s-projects.vercel.app/](#)
+[https://frontend-battle-2-0-tanishatayal06s-projects.vercel.app/]
 
 ## Features
 - Responsive layout
